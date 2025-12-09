@@ -1,0 +1,26 @@
+form-section {
+    margin: 20px;
+    background: #f2f2f2;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 90%;
+}
+
+button {
+    padding: 10px;
+    width: 95%;
+    background: #008cff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+li {
+    margin-top: 10px;
+}
